@@ -2,6 +2,6 @@ Jinja2
 msgpack>=0.5,!=0.5.5
 PyYAML
 MarkupSafe
-requests>=1.0.0
+requests>=2.32.0
 distro>=1.0.1
 contextvars
